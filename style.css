@@ -69,7 +69,7 @@ body {
     border: none;
     border-bottom: 2px solid rgb(38, 85, 188);
     background: transparent;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 .search:focus {
